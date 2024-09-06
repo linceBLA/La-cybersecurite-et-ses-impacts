@@ -27,5 +27,5 @@ To help the students protect themselves, I provided practical tips on maintainin
 By the end of the presentation, I was pleased to see that the students now recognized the importance of cybersecurity. Their awareness of the issue had significantly grown, and they left with a better understanding of how vital it is to protect not only themselves but also broader systems from cyber threats.
 
 
-## Presentation
+## Presentation in French
 Link: <a href="https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/blob/main/la-cybersecurite-et-ses-impacts.pdf">La Cybersecurite et ses Impacts<a/>
