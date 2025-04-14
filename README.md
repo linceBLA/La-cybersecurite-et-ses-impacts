@@ -1,4 +1,4 @@
-# La-cybersecurite-et-ses-impacts
+# Cybersecurity and Its Impacts
 
 ## Audience
 I presented to **12th-grade students** specializing in Economics and Social Studies about the global impact of cybersecurity. Many students were unaware of how significant cybersecurity is in protecting businesses, governments, and personal data. 
